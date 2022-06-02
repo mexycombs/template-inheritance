@@ -1,0 +1,26 @@
+.darkbrown {
+    color: #562900 !important;
+}
+.brownback {
+     background-color: #562900 !important;
+}
+
+.girl {
+    
+    height: 200px;
+    width: 200px;
+    border-radius: 50% !important;
+
+}
+
+a{
+
+}
+
+.pos {
+    position: absolute;
+    right: 210px;
+    top: 2652px;
+    background-color: #562900 !important;
+    border: 0 !important;
+}
